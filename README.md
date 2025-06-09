@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/diyareddy6/Leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/diyareddy6/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/diyareddy6/Leetcode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/diyareddy6/Leetcode/tree/master/0326-power-of-three) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/diyareddy6/Leetcode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/diyareddy6/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/diyareddy6/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/diyareddy6/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/diyareddy6/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/diyareddy6/Leetcode/tree/master/0020-valid-parentheses) |
 | [0649-dota2-senate](https://github.com/diyareddy6/Leetcode/tree/master/0649-dota2-senate) |
 ## Greedy
